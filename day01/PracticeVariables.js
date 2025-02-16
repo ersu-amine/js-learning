@@ -23,4 +23,6 @@ console.log(value);
 
 //var - global type, always reachable
 
+//hes
+
 //let -> can be used for local variable purposes inside a block
