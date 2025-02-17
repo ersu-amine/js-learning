@@ -2,31 +2,31 @@ console.log("===== If-Else Statements =====");
 let mark = 75;
 
 if (mark >= 60) {
-  console.log("You passed!");
+	console.log("You passed!");
 } else {
-  console.log("You failed!");
+	console.log("You failed!");
 }
 
 console.log("===== If-Else-If Statements =====");
 if (mark >= 90) {
-  console.log("You got an A!");
+	console.log("You got an A!");
 } else if (mark >= 80) {
-  console.log("You got a B!");
+	console.log("You got a B!");
 } else if (mark >= 70) {
-  console.log("You got a C!");
+	console.log("You got a C!");
 } else if (mark >= 60) {
-  console.log("You got a D!");
+	console.log("You got a D!");
 } else {
-  console.log("You got an F!");
+	console.log("You got an F!");
 }
 
 console.log("===== Nested If-Else Statements =====");
 if (mark >= 0 && mark <= 100) {
-  if (mark >= 60) {
-    console.log("You passed!");
-  } else {
-    console.log("You failed!");
-  }
+	if (mark >= 60) {
+		console.log("You passed!");
+	} else {
+		console.log("You failed!");
+	}
 } else {
-  console.log("Invalid mark!");
+	console.log("Invalid mark!");
 }
