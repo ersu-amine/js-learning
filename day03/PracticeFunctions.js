@@ -22,3 +22,5 @@ function login(username, password){
 console.log(login("admin", "admin123"));
 
 console.log(login());//parameters will display as undefined
+//javascript doesn't give error if the parameters are not passed
+//this issue fixed in typescript
