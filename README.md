@@ -5,8 +5,10 @@
 VSCode Extenstions
 
     GitHub Copilot
+    Tabnine
     Code Runner 
     Better Comments
     indent-rainbow
-    npm
+    ESLint
+    
   
